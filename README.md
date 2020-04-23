@@ -8,7 +8,7 @@ Run the following command to set the node version. Node 12.13.1 was used during 
 `nvm use`
 
 Run the following command to install dependencies:
-`npm run install`
+`npm install`
 
 Run this command to build client files and start node server on port 1234:
-`npm run start`
+`npm start`
